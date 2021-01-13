@@ -1,5 +1,6 @@
 ## uMatrix<br>[<img src="https://travis-ci.org/gorhill/uMatrix.svg?branch=master" height="16">](https://travis-ci.org/gorhill/uMatrix)
 
+Forked from gorhill's project which is now unmaintained.
 Definitely for advanced users.
 
 ***
